@@ -1,8 +1,8 @@
-h1. ubuntu-helloworld
+# ubuntu-helloworld
 
 A dockerfile sample.
 
-h2. Run
+## Run
 
     $ docker run --rm toshihikoyanase/ubuntu-helloworld
     Hello World
